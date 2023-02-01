@@ -119,14 +119,9 @@
 
 - 하트아이콘 클릭시 좋아요 표시
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/81a46888-1c2a-4fed-920b-4ad16200bcef/Untitled.png)
+![image](https://user-images.githubusercontent.com/90121680/215961991-f685e7e1-7db4-4588-8b51-3ef8a26b083b.png)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/18469304-a63e-4e4c-b58e-1a06ff62ebff/Untitled.png)
-
-- 좋아요기능 코드
-    
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1a4f2b28-f745-49c9-8fdf-1861d4edd32b/Untitled.png)
-    
+- 좋아요기능 코드    
     ```dart
     Obx(()=> CircleAvatar(
         backgroundColor: Colors.white,
